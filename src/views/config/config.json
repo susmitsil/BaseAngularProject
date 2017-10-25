@@ -1,0 +1,8 @@
+{
+	"url":"api",
+	"auth":{
+		"login":"/api/login",
+		"signup":"/api/signup",
+		"logout":"/api/logout"
+	}
+}
